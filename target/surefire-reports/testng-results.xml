@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="131400" started-at="2020-04-26T20:08:50 IST" finished-at="2020-04-26T20:11:01 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="131400" started-at="2020-04-26T20:08:50 IST" finished-at="2020-04-26T20:11:01 IST">
+      <class name="JenkinsPack.jenkinsTest.openGoogleTest">
+        <test-method status="PASS" signature="openchrome()[pri:0, instance:JenkinsPack.jenkinsTest.openGoogleTest@490ab905]" name="openchrome" duration-ms="131313" started-at="2020-04-26T20:08:50 IST" finished-at="2020-04-26T20:11:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openchrome -->
+      </class> <!-- JenkinsPack.jenkinsTest.openGoogleTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
