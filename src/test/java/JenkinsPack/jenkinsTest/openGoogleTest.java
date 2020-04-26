@@ -20,7 +20,7 @@ public class openGoogleTest {
 	WebDriver driver =new ChromeDriver();
 	driver.get("https://www.google.com");
 	Thread.sleep(2000);
-	System.out.println("Bye Bye");
+	System.out.println("Bye Bye and Rohit is great");
 	driver.close();
 		
 	}
